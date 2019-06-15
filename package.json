@@ -1,0 +1,23 @@
+{
+  "name": "electron-todo",
+  "version": "1.0.0",
+  "description": "Hello World App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prabodhmeshram/electron-todo"
+  },
+  "keywords": [
+    "electron",
+    "todo",
+    "app",
+    "desktop",
+    "javascript",
+    "node"
+  ],
+  "author": "Prabodh Meshram <prabodh.meshram7@gmail.com>",
+  "license": "MIT"
+}
