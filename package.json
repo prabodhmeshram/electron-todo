@@ -4,7 +4,8 @@
   "description": "Hello World App",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
     "node"
   ],
   "author": "Prabodh Meshram <prabodh.meshram7@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^5.0.4"
+  }
 }
